@@ -1,7 +1,7 @@
 <h1 align="center">ok let's touch some grass 🌱</h1>
 
 <p align="center">
-  <img src="assets/coding-room.gif" width="700">
+  <img src="assets/github.gif" width="700">
 </p>
 
 ---

@@ -4,9 +4,6 @@
   <img src="assets/github.gif" width="700">
 </p>
 
-<p align="center">
-  building ideas that somehow turn into real projects
-</p>
 
 ---
 

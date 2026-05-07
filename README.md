@@ -9,7 +9,7 @@
 
 ## know about me
 
-hey, i'm sahitya — a computer science engineering student who enjoys turning random ideas into projects that solve real problems.
+hey, i'm sahitya - a computer science engineering student who enjoys turning random ideas into projects that solve real problems.
 
 i love building things that feel meaningful, whether it's backend systems, real-time applications, scalable platforms, or experimental ideas that started with a simple “wait… what if?”.
 

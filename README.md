@@ -1,4 +1,4 @@
-<h1 align="center">hilo let's touch some grass 🌱</h1>
+<h1 align="center">hilo</h1>
 
 <p align="center">
   <img src="assets/github.gif" width="700">

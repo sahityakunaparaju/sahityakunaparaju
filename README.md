@@ -9,11 +9,9 @@
 
 ## know about me
 
-hey, i'm sahitya - a computer science engineering student who enjoys turning random ideas into projects that solve real problems.
+Hey, I'm Sahitya, a Computer Science Engineering student and Data Analyst Intern.
 
-i love building things that feel meaningful, whether it's backend systems, real-time applications, scalable platforms, or experimental ideas that started with a simple “wait… what if?”.
-
-most of the time you'll find me exploring new technologies, debugging something for hours, or planning the next thing i want to build.
+I believe every problem has a gap waiting to be solved. I enjoy identifying those gaps and building innovative software that makes a real difference. Whether it's AI/ML, backend engineering, or scalable systems, I love turning ideas into practical solutions that create impact.
 
 ---
 
@@ -39,10 +37,9 @@ most of the time you'll find me exploring new technologies, debugging something 
 
 ## currently
 
-- building projects from random late-night ideas
-- probably thinking about my next idea already
-- trying to make cool ideas actually work
-- exploring systems that can handle real-world scale
+- Currently working as a Data Analyst Intern.
+- Building scalable software and intelligent applications.
+- Always learning, experimenting, and improving.
 
 ---
 
